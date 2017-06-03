@@ -12,3 +12,5 @@
 #define FLOAT   float
 #define DOUBLE  double
 #define BOOLEAN int
+
+#define DATA_PATH "./raw/20170603.csv"
